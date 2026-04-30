@@ -220,7 +220,7 @@ This Code of Conduct is adapted from:
 ## Questions?
 
 If you have questions about this Code of Conduct:
-- **Email**: [conduct@semikonstech.com](mailto:conduct@semikonstech.com)
+- **Email**: [conduct@semikonstech.com](mailto:admin@semikonstech.com)
 - **Discussions**: Open a discussion in the repository
 - **Website**: Visit [www.semikonstech.com](https://www.semikonstech.com) for more info
 
