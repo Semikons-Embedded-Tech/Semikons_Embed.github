@@ -87,7 +87,7 @@ If you witness or experience a violation, please report it:
 
 1. **For Minor Issues**: Address directly with the person if comfortable doing so
 2. **For Serious Issues**: Contact the Semikons moderation team:
-   - **Email**: [conduct@semikonstech.com](mailto:conduct@semikonstech.com)
+   - **Email**: [conduct@semikonstech.com](mailto:admin@semikonstech.com)
    - **Private Report Form**: [Link to Google Form or equivalent]
    - **GitHub Admin**: Flag via repository admin contact
 
@@ -162,7 +162,7 @@ Violations may result in:
 
 If you believe a decision was unjust:
 
-1. **Submit Appeal**: Email [conduct@semikonstech.com](mailto:conduct@semikonstech.com) within 7 days
+1. **Submit Appeal**: Email [conduct@semikonstech.com](mailto:admin@semikonstech.com) within 7 days
 2. **Provide New Evidence**: Explain why the decision should be reconsidered
 3. **Review by Different Member**: A different team member reviews your appeal
 4. **Final Decision**: Appeal decision is final and communicated within 7 days
